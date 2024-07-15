@@ -3,6 +3,9 @@
     font-family: Helvetica, 'Times New Roman', sans-serif;
     font-weight: bold;
     font-size: 18px;
+    padding: 5px;
+    border: 3px solid black;
+    margin: 10px;
 }
 
 .menu:hover {
@@ -10,7 +13,8 @@
 }
 
 ul li {
-    margin-top: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .headline {
