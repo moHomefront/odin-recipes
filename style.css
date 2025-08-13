@@ -28,6 +28,10 @@ ul li {
     margin-bottom: 25px;
 }
 
+#headline{
+    margin-left: 20px;
+}
+
 .headline {
     font-family: Helvetica, 'Times New Roman', sans-serif;
     font-weight: bold;
