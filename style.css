@@ -54,3 +54,21 @@ ul li {
     background-color: beige;
     color:teal;
 }
+
+.instructions {
+    display: inline-block;
+}
+
+.ingredients{
+    margin: auto 5px;
+    width: 45%;
+    display: block;
+    float: left;
+}
+
+.directions {
+    margin: auto 5px;
+    width: 45%;
+    display: block;
+    float: right;
+}
